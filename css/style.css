@@ -4,7 +4,7 @@
 }
 
 body {
-    background: red;
+    background: lightgrey;
     margin: 2em;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .pizza {
-    background: #FFDC00;
+    background: pink;
     border-radius: 50%;
     display: inline-block;
     line-height: 50px;
